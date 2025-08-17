@@ -1,41 +1,31 @@
 # Table of contents
 
-* [Introdution](README.md)
+* [Hello world](README.md)
 
-## Getting Started
+## About Br0x swap
 
-* [Proposal](getting-started/quickstart/README.md)
-  * [Problem](getting-started/quickstart/problem.md)
-  * [Solution](getting-started/quickstart/solution.md)
-  * [Plan](getting-started/quickstart/plan.md)
-  * [Budget](getting-started/quickstart/budget.md)
-* [Ecosystem impact](getting-started/publish-your-docs.md)
+* [Intro](about-br0x-swap/intros.md)
+* [Technologies](about-br0x-swap/technologies.md)
+* [Roadmap](about-br0x-swap/roadmap.md)
+* [Token](about-br0x-swap/token.md)
+* [User guide](about-br0x-swap/userguide.md)
 
-## STEP-BY-STEP
+## App V1.0
 
-* [Overview](step-by-step/overview.md)
-* [Input](step-by-step/input/README.md)
-  * [How to use Koios, Blockfrost](step-by-step/input/how-to-use-koios-blockfrost.md)
-* [Middle control](step-by-step/middle-control/README.md)
-  * [Set up deployment enviroment](step-by-step/middle-control/set-up-deployment-enviroment.md)
-  * [Database](step-by-step/middle-control/database.md)
-* [Output](step-by-step/output/README.md)
-  * [Telegram bot](step-by-step/output/telegram-bot.md)
-  * [Email](step-by-step/output/email.md)
-  * [Others](step-by-step/output/others.md)
-* [Create the bot](step-by-step/create-the-bot.md)
-* [Bot functions](step-by-step/bot-functions/README.md)
-  * [Asset by payment](step-by-step/bot-functions/asset-by-payment.md)
-  * [Asset by stake addr](step-by-step/bot-functions/asset-by-stake-addr.md)
-  * [Auto alert](step-by-step/bot-functions/auto-alert.md)
-* [Clips](step-by-step/clips.md)
+* [Wire-frame analyst](app-v1.0/wire-frame-analyst.md)
+* [Flow & diagram](app-v1.0/mapping.md)
+* [Interface](app-v1.0/interface.md)
+* [Media](app-v1.0/media.md)
 
-## Basics Knowledge
+## Catalyst Proposal
 
-* [Cardano asset](basics-knowledge/editor.md)
-* [On-chain data](basics-knowledge/on-chain-data.md)
-* [API](basics-knowledge/markdown.md)
-* [Hosting](basics-knowledge/images-and-media.md)
-* [Database](basics-knowledge/database.md)
-* [Program language](basics-knowledge/interactive-blocks.md)
-* [Output](basics-knowledge/openapi.md)
+* [Problem](catalyst-proposal/problem.md)
+* [Solution](catalyst-proposal/solution.md)
+* [Plan](catalyst-proposal/plan.md)
+* [Budget](catalyst-proposal/budget.md)
+* [Impact](catalyst-proposal/impact.md)
+* [Value for Money](catalyst-proposal/value-for-money.md)
+
+## Reference
+
+* [Wanchain bridge](reference/wanchain-bridge.md)
